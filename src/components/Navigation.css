@@ -1,0 +1,21 @@
+header{
+    background-color: #040D12 !important;
+}
+
+@media (min-width:990px){
+    .navbar{
+        width: 990px;
+        margin: auto;
+        background-color: transparent !important;
+    }
+}
+
+.navbar-brand{
+    font-weight: bold;
+    font-size: x-large;
+}
+
+.navbar-collapse{
+    justify-content: end;
+}
+
